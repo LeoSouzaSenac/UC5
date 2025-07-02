@@ -1,5 +1,3 @@
-
-
 ## 📌 Por que aprender inglês na área de TI?
 
 O inglês é a **língua universal da tecnologia e da internet**. Grande parte dos conteúdos usados por programadores, desenvolvedores e profissionais de TI está em **inglês**:
@@ -39,12 +37,7 @@ Hoje, o inglês moderno é a união dessas raízes.
 | Ela tem um computador.     | She has a computer.       |
 | Nós usamos um teclado.     | We use a keyboard.        |
 
-### ✅ Regras gerais:
 
-- Inglês é **mais direto**: Sujeito + Verbo + Complemento
-- Muitos termos de informática não são traduzidos (ex: login, software, user)
-
----
 
 ## 👋 Cumprimentos e respostas
 
@@ -60,10 +53,14 @@ Hoje, o inglês moderno é a união dessas raízes.
 
 ### ✍️ Exercício 1 – Responda em grupo
 
-1. Como se diz “Boa tarde”?  
-2. O que significa “How are you?”  
-3. Como responder: “I'm fine, thank you”?  
-4. Como dizer "Boa noite" ao ir dormir?
+1. Como se diz “Good morning”?  
+2. O que significa “Good night”?  
+3. Quando usamos “Good evening”?  
+4. Como responder “How are you?”?
+5. Qual a diferença entre “Good evening” e “Good night”?  
+6. Escreva 2 formas de cumprimentar alguém em inglês.
+7. Traduza para o inglês: “Boa noite, estou bem.”  
+8. Responda: What does “Hello” mean?
 
 ---
 
@@ -85,10 +82,14 @@ Hoje, o inglês moderno é a união dessas raízes.
 
 ### ✍️ Exercício 2 – Complete com **have** ou **has**
 
-1. I ___ a computer.  
-2. She ___ a login and password.  
-3. We ___ a programming class.  
-4. He ___ a problem.
+1. He ___ a monitor and a keyboard.  
+2. They ___ access to the internet.  
+3. It ___ a simple design.  
+4. You ___ two accounts.
+5. We ___ a new project.  
+6. She ___ a laptop.
+7. I ___ a good idea.  
+8. He ___ an old computer.
 
 ---
 
@@ -113,10 +114,14 @@ Hoje, o inglês moderno é a união dessas raízes.
 
 ### ✍️ Exercício 3 – Complete com **am**, **is** ou **are**
 
-1. I ___ a programmer.  
-2. They ___ using the mouse.  
-3. He ___ a teacher.  
-4. We ___ students.
+1. It ___ very important.  
+2. We ___ ready to study.  
+3. She ___ my teacher.  
+4. I ___ from Brazil.
+5. They ___ students in the course.  
+6. He ___ in the lab now.
+7. I ___ your new friend.  
+8. You ___ connected to Wi-Fi.
 
 ---
 
@@ -138,12 +143,16 @@ Hoje, o inglês moderno é a união dessas raízes.
 | L     | él         | Y     | uai        |
 | M     | ém         | Z     | zi         |
 
-### ✍️ Exercício 4 – Responda:
+### ✍️ Exercício 1 – Responda:
 
-1. Como se pronuncia a letra **G**?  
-2. Complete: C - O - ___ - E  
-3. Soletrar a palavra “LOGIN”  
-4. O que vem depois da letra “J”?
+1. Como se pronuncia a letra **H**?  
+2. O que vem depois da letra “M”?  
+3. Soletrar a palavra “EMAIL”.  
+4. Qual a pronúncia da letra “Z”?
+5. Escreva a pronúncia das letras D, E e F.  
+6. Soletrar a palavra “CODE”.
+7. Complete: P - Q - ___ - S  
+8. Como se pronuncia “W”?
 
 ---
 
@@ -170,16 +179,19 @@ O verbo **não leva "s"** na pergunta, mesmo com he/she/it.
 - Does she use Linux?  
 - Do they have internet?
 
-### ✍️ Exercício 5 – Complete com **do** ou **does**
+### ✍️ Exercício 1 – Complete com **do** ou **does**
 
-1. ___ you like programming?  
-2. ___ she work at Senac?  
-3. ___ they have a website?  
-4. ___ he use JavaScript?
+1. ___ she play games?  
+2. ___ they speak English?  
+3. ___ you understand the code?
+4. ___ he know Java?  
+5. ___ we need a password?
+6. ___ it run in Windows?  
+7. ___ you use GitHub?
 
 ---
 
-### ✍️ Exercício 6 – Transforme em pergunta:
+### ✍️ Exercício 1 – Transforme em pergunta:
 
 Transforme as frases afirmativas abaixo em perguntas:
 
@@ -187,29 +199,7 @@ Transforme as frases afirmativas abaixo em perguntas:
 2. She has a computer. →  
 3. They use Linux. →  
 4. He works at Google. →  
-
----
-
-## ✅ Conclusão
-
-Hoje você aprendeu:
-
-- Por que o inglês é importante na tecnologia  
-- A origem do idioma  
-- Diferenças com o português  
-- Cumprimentos e respostas  
-- Verbos **to have** e **to be**  
-- O alfabeto  
-- Como fazer perguntas
-
----
-
-🎓 **Na próxima aula:**
-
-- Números em inglês  
-- Plural e artigos  
-- Pronomes  
-- Vocabulário de comandos (run, open, type...)  
-- Leitura de interfaces reais (GitHub, VSCode, terminal)
-
-
+5. I am a programmer. →  
+6. She is in the classroom. →
+7. They are students. →  
+8. He has a mouse. →
